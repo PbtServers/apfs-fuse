@@ -32,7 +32,7 @@ The following libraries are needed (including the -dev/-devel packages):
 
 Development tools:
 * cmake
-* gcc-c++ (or clang++)
+* g++ (or clang++)
 * git (for cloning)
 
 Example for Linux:
